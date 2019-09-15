@@ -6,11 +6,11 @@
 分析方向：  
 1. 計算所有投手的WHIP值（每局被上壘率），並針對WHIP佳的投手深入分析各球種被上壘率  
 
-![](https://github.com/RichardCYC/Baseball_analysis/blob/master/Pitchers%20Performance.png)  
+![](https://github.com/RichardCYC/Baseball_analysis/blob/master/images/Pitchers%20Performance.png)  
 
-![](https://github.com/RichardCYC/Baseball_analysis/blob/master/Top%20Pitcher%20Performance.png)  
+![](https://github.com/RichardCYC/Baseball_analysis/blob/master/images/Top%20Pitcher%20Performance.png)  
 
 2. 計算所有打者的上壘率，並針對上壘率佳的打者深入分析面對各球種的上壘率  
 
-![](https://github.com/RichardCYC/Baseball_analysis/blob/master/Batters%20Performance.png)  
-![](https://github.com/RichardCYC/Baseball_analysis/blob/master/Top%20Batter%20Performance.png)
+![](https://github.com/RichardCYC/Baseball_analysis/blob/master/images/Batters%20Performance.png)  
+![](https://github.com/RichardCYC/Baseball_analysis/blob/master/images/Top%20Batter%20Performance.png)
